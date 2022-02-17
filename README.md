@@ -1,0 +1,1 @@
+repositorio de react-native con stackNavigator y iconos de ionics, listo para ser modificado y usado 
